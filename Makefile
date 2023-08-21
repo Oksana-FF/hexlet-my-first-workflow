@@ -1,7 +1,2 @@
-[bash]
-----
-
-make say-hello
-Hello, world!
-
-----
+say-hello:
+	@echo 'Hello, world!'
